@@ -1,0 +1,1 @@
+.LoadingWheel{border-radius:50%;border-style:solid;border-right-color:transparent!important;animation-name:spin;animation-iteration-count:infinite}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}
